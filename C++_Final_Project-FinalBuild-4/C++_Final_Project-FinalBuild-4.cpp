@@ -9,7 +9,7 @@ using namespace std;
 
 
 //  CLASS USED IN PROJECT
-//**************************
+//*************************
 
 
 class account
